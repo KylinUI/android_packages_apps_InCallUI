@@ -16,11 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="incall_call_type_label_forwarded">Προωθημένη κλήση</string>
-  <string name="card_title_dialing_waiting">Κλήση (αναμονή\u2026)</string>
-  <string name="card_title_waiting_call">Κλήση σε αναμονή</string>
-  <string name="onscreenBlacklistText">Μαύρη λίστα</string>
-  <string name="blacklist_dialog_title">Προσθήκη στη μαύρη λίστα</string>
-  <string name="blacklist_dialog_message">Μελλοντικές κλήσεις από το <xliff:g id="number">%s</xliff:g> θα απορρίπτονται</string>
-  <string name="sub_no_sim">Χωρίς SIM</string>
+  <string name="incall_call_type_label_forwarded">Позив је прослеђен</string>
+  <string name="card_title_dialing_waiting">Бирање (чекање\u2026)</string>
+  <string name="card_title_waiting_call">Позив на чекању</string>
+  <string name="onscreenBlacklistText">Црна листа</string>
+  <string name="blacklist_dialog_title">Додајте на црну листу</string>
+  <string name="blacklist_dialog_message">Будући позиви од <xliff:g id="number">%s</xliff:g> ће бити блокирани</string>
+  <string name="sub_no_sim">Нема SIM картице</string>
 </resources>
